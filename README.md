@@ -19,6 +19,7 @@ cd Resume-parser
 
 ### 3️⃣ Check versions
 python3 --version
+
 pip3 --version
 
 ### 4️⃣ Build the project
