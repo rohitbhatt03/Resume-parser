@@ -4,6 +4,7 @@ A GPT-powered Resume Parser served as a REST API. It converts resume PDFs (e.g.,
 ) into structured JSON files
 
 ⏱️ Parsing time: ~15 seconds per resume
+
 📈 Fine-tuning may improve results, but the default setup is already effective
 
 Quick Start
@@ -63,4 +64,4 @@ export OPENAI_API_KEY=YOURKEY
  - Job description
  - Projects
  - Project name
- -Project description
+ - Project description
