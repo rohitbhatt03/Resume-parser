@@ -1,0 +1,97 @@
+{
+  "basic_info": {
+    "full_name": "Rohit Bhatt",
+    "first_name": "Rohit",
+    "last_name": "Bhatt",
+    "phone_number": "+91 9917124788",
+    "email": "bhattrohit050@gmail.com",
+    "github_main_page_url": "https://github.com/rohitbhatt03",
+    "linkedin_url": "https://www.linkedin.com/in/rohit-bhatt-8a6666248/",
+    "portfolio_website_url": "https://github.com/rohitbhatt03",
+    "location": "Dehradun, Uttarakhand",
+    "university": "Graphic Era Hill University",
+    "education_level": "Bachelor of Technology",
+    "majors": ["Computer Science and Engineering"],
+    "graduation_month": "June",
+    "graduation_year": "2025",
+    "GPA": "8.0 / 10",
+    "coursework": [
+      "SDLC",
+      "CI/CD",
+      "DBMS",
+      "Object-Oriented Programming",
+      "Operating Systems",
+      "Computer Networks"
+    ]
+  },
+  "skills": {
+    "programming_languages": ["C/C++", "C#", "Java", "Python", "JavaScript", "SQL", "HTML/CSS"],
+    "web_technologies": ["ASP.NET", "Node.js", "Express.js", "React.js", "Angular", "Bootstrap", "Tailwind CSS", "REST APIs"],
+    "databases": ["MySQL", "MongoDB"],
+    "tools_platforms": ["Git/GitHub", "AWS", "Docker", "OpenCV", ".NET Framework 4.0+"],
+    "machine_learning_ai": ["TensorFlow", "PyTorch", "Scikit-Learn", "NumPy", "Pandas", "NLP", "Computer Vision"]
+  },
+  "work_experience": [
+    {
+      "company": "TBI - GEU",
+      "job_title": "ML Intern",
+      "location": "Dehradun, Uttarakhand",
+      "duration": "May 2025 – Aug 2025",
+      "job_summary": "Utilized RandomForestClassifier to detect seizures from EEG data. Built scalable ML pipeline for preprocessing EEG signals, optimized inference for large datasets, and generated detailed reports with accuracy and classification metrics."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Neural Network Based Chess Engine",
+      "technologies": ["Python", "MCTS"],
+      "organization": "Graphic Era Hill University",
+      "duration": "July 2024 – Nov 2024",
+      "summary": "Integrated Monte Carlo Tree Search for efficient move selection. Implemented parallelized inference reducing evaluation time by 40% with systematic development and documentation."
+    },
+    {
+      "title": "Real-Time Chat App with Toxic Message Filter",
+      "technologies": ["MERN", "Python", "Socket.IO", "Redis"],
+      "organization": "Graphic Era Hill University",
+      "duration": "Feb 2024 – June 2024",
+      "summary": "Built chat app with typing indicators, offline messaging, and persistent history. Integrated transformer-based ML model for toxic message filtering with 90% accuracy. Optimized backend with Redis caching to reduce latency <50ms."
+    },
+    {
+      "title": "Onicam",
+      "technologies": ["Python", "OpenCV"],
+      "organization": "Graphic Era Hill University",
+      "duration": "Nov 2023 – Jan 2024",
+      "summary": "Implemented motion detection, image/video writing, and drawing algorithms. Developed features like Anti-Theft, Smart Recording, and Live Monitoring."
+    }
+  ],
+  "education": [
+    {
+      "school": "Graphic Era Hill University",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "location": "Dehradun, Uttarakhand",
+      "duration": "Sept 2021 – June 2025",
+      "GPA": "8.0 / 10"
+    },
+    {
+      "school": "Maharshi Vidya Mandir School",
+      "degree": "Higher Secondary",
+      "location": "Haldwani, Uttarakhand",
+      "duration": "May 2019 – May 2020",
+      "percentage": "80%"
+    }
+  ],
+  "positions_of_responsibility": [
+    {
+      "organization": "Co-Dev (Coding Community)",
+      "location": "Dehradun, Uttarakhand",
+      "duration": "May 2021 – June 2025",
+      "summary": "Organized annual hackathons with 600+ participants. Led a 24-hour university-wide hackathon with 1,000+ students on AI, fintech, and security."
+    }
+  ],
+  "achievements": [
+    "Rated 3 star in CodeChef",
+    "Secured global rank 199 in CodeChef October Long Challenge 2022",
+    "Won LeetCode 2023 annual badge (top 0.2% users)",
+    "Current coding streak of 600+ days on LeetCode",
+    "University rank 10 in GeeksforGeeks"
+  ]
+}
