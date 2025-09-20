@@ -14,6 +14,7 @@ python3 -m pip install --upgrade pip
 
 ### 2️⃣ Clone this repository
 git clone https://github.com/rohitbhatt03/Resume-parser.git
+
 cd Resume-parser
 
 ### 3️⃣ Check versions
